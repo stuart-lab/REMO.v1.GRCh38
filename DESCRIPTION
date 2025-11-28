@@ -1,0 +1,19 @@
+Package: REMO.v1.GRCh38
+Title: REMO v1 modules for GRCh38 genome
+Version: 1.0.0
+Authors@R: c(
+    person(given = 'Tim', family = 'Stuart', email = 'stuartt@a-star.edu.sg', role = c('aut', 'cre'), comment = c(ORCID = '0000-0002-3044-0897')),
+    person(given = 'Chrysania', family = 'Lim', email = 'Chrysania_Lim@a-star.edu.sg', role = c('aut'))
+  )
+Description: REMO version 1 module coordinates for human genome GRCh38 assembly
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+Depends: 
+    R (>= 4.1.0)
+Collate:
+    'data.R'
+RoxygenNote: 7.3.3
+Imports: 
+    GenomicRanges
