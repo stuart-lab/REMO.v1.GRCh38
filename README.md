@@ -1,6 +1,6 @@
 # REMO GRCh38 v1 R package
 
-R package containing information for the Human genome hg38 REMO modules.
+R package containing information for the human hg38 genome REMO modules.
 
 ## Installation
 
