@@ -9,9 +9,7 @@ A named list. The name of each element corresponds to a CL name, and
 the list element is a character vector of REMO module IDs.
 }
 \source{
-\url{}
-
-\doi{}
+\url{https://obophenotype.github.io/cell-ontology/}
 }
 \usage{
 REMO.v1.GRCh38.terms
