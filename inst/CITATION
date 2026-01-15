@@ -1,0 +1,11 @@
+citHeader("To cite REMO.v1.GRCh38, please use:")
+
+bibentry(bibtype = "Article",
+  author = c(person("Chrysania", "Lim"), person("Javen", "Tan Yih Ruay"), person("Tim", "Stuart")),
+  title = "Regulatory element modules as universal features for single-cell chromatin analysis",
+  journal = "bioRxiv",
+  year = "2025",
+  doi = "10.64898/2025.12.10.692786",
+  note = "https://doi.org/10.64898/2025.12.10.692786",
+  textVersion = "Lim et al. Regulatory element modules as universal features for single-cell chromatin analysis. bioRxiv (2025)."
+)

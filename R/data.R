@@ -9,8 +9,8 @@
 #'
 #' @author Tim Stuart
 #' @author Chrysania Lim
-#' @source \url{}
-#' @source \doi{}
+#' @source \url{https://doi.org/10.64898/2025.12.10.692786}
+#' @source \doi{10.64898/2025.12.10.692786}
 "REMO.v1.GRCh38"
 
 #' GRCh38 REMO v1 cell ontology terms
@@ -54,8 +54,8 @@
 #'
 #' @author Tim Stuart
 #' @author Chrysania Lim
-#' @source \url{}
-#' @source \doi{}
+#' @source \url{https://doi.org/10.64898/2025.12.10.692786}
+#' @source \doi{10.64898/2025.12.10.692786}
 "REMO.v1.GRCh38.metadata"
 
 #' GRCh38 tissue cell types

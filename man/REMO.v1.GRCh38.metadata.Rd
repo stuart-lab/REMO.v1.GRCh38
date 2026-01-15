@@ -17,9 +17,9 @@ A data frame with the following columns:
 }
 }
 \source{
-\url{}
+\url{https://doi.org/10.64898/2025.12.10.692786}
 
-\doi{}
+\doi{10.64898/2025.12.10.692786}
 }
 \usage{
 REMO.v1.GRCh38.metadata
